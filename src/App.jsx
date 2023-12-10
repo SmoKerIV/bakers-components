@@ -78,12 +78,7 @@ function App() {
           type="primary"
           size="md"
           onClick={() => console.log("Search clicked")}
-          icon={
-            <img
-              src="src\Components\IconButton\assets\search-icon.svg"
-              alt="Search Icon"
-            />
-          }
+          icon="🔍"
         >
           Search
         </IconButton>
