@@ -1,0 +1,32 @@
+.custom-header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 16px;
+    background-color: #007bff;
+    color: #fff;
+}
+
+.brand {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.action {
+    display: flex;
+    align-items: center;
+}
+
+.action button {
+    background-color: #fff;
+    color: #007bff;
+    border: none;
+    padding: 8px 16px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+.additional-content {
+    display: flex;
+    align-items: center;
+}
